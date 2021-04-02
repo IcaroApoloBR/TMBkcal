@@ -4,3 +4,11 @@ A calculadora de taxa metabólica basal (TMB) é utilizada para mensurar a quant
 **Resumindo, é o total de calorias gastas para manter as funções vitais, como os batimentos cardíacos, a pressão arterial e a temperatura corporal.**
 - A fórmula para os homens é a seguinte: TMB = 66 + (13,8 x peso em kg.) + (5 x altura em cm) - (6,8 x idade em anos). 
 - Para as mulheres, usa-se a fórmula: TMB = 655 + (9,6 x peso em kg.) + (1,8 x altura em cm) - (4,7 x idade em anos).
+
+### Layout 🖼
+<div>
+<img src="https://github.com/IcaroApoloBR/TMBkcal/blob/master/projectTMB/assets/images/getkcal.png" width="900"/>
+</div>
+
+## Licença :memo:
+<p>Criado com 💙 por <a href='https://github.com/IcaroApoloBR/' target='blank'>Ícaro Apolo</a></p>
